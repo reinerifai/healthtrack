@@ -39,7 +39,7 @@ bash
 (Add screenshots here after running the project)
 
 ## 👥 Team Members
-- [jana hashem] - [52310156]
+- [reine rifai] - [92230103]
 
 
 ## 🎓 Course Information
