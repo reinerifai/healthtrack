@@ -36,7 +36,8 @@ bash
 5. Open your browser and navigate to: http://localhost:3000
 
 ## 📸 Screenshots
-(Add screenshots here after running the project)
+
+(https://github.com/user-attachments/assets/159d5ea7-3d2a-4db4-b597-f219ac13f861)
 
 ## 👥 Team Members
 - [reine rifai] - [92230103]
