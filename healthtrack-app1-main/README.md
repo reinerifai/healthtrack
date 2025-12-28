@@ -4,7 +4,7 @@
 A comprehensive full-stack wellness tracking web application that helps users monitor their daily activities, meals, and exercise routines. Developed for **CSCI426: Advanced Web Programming** - Phase 1 & 2.
 
 ## 👥 Team Members
-- **Jana Hashem** - Student ID: [92230103]
+- **Reine Rifai** - Student ID: [92230103]
 
 ## ✨ Features
 
